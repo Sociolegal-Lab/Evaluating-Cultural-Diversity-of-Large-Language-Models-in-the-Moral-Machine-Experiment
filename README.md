@@ -4,9 +4,7 @@
 
 This study evaluates the cultural alignment and diversity of prominent Large Language Models (LLMs) by assessing their ability to simulate human moral decision-making across various cultural contexts. The Moral Machine Experiment dataset, encompassing 130 countries and diverse demographic groups, serves as the evaluation platform. Our findings reveal a hierarchical structure in cultural diversity, with LLMs exhibiting greater adaptability at broader cultural classifications (e.g. cultural clusters) and progressively lower diversity at more granular levels (e.g. countries). Notably, ChatGLM-6B, demonstrates superior cultural diversity due to its diverse pre-training corpus. However, the analysis also identifies potential biases within LLMs, including the marginalization of minority groups and the perpetuation of gender inequality across cultural zones. The study emphasizes the critical need to prioritize cultural diversity throughout LLM development to foster inclusivity and mitigate potential risks associated with bias.
 
-## Experiment
-
-### Results
+## Results
 
 #### Dataset 1 (Unbalanced) - Accuracy
 
